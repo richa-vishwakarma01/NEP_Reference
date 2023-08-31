@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "automation_test_python"
+version = "0.1.0"
+description = "Template for backend automation test"
+authors = ["QA"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pytest = "^6.2.5"
+pytest-bdd = "^5.0.0"
+boto3 = "^1.27.0"
+python-dotenv = "^1.0.0"
+requests = "^2.31.0"
+utils = "^1.0.1"
+pyyaml = "^6.0.1"
+sttable = "^0.0.1"
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "error",
+    "ignore::UserWarning",
+    'ignore:function ham\(\) is deprecated:DeprecationWarning',
+    'ignore::DeprecationWarning:docker.*:'
+]
+log_cli = true
+log_cli_format = "[%(levelname)8s] %(message)s (%(filename)s:%(lineno)s)"
+
+
+

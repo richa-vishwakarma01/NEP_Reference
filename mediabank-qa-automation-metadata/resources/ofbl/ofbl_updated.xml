@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Tournament Season="20202021" League="BL1">
+  <Game GameId="52629" Matchday="1" Number="1" OptaId="2127782" Date="2020-09-11T20:30:00Z" DateUTC="2020-09-11T18:30:00Z" Details="BL1-GD-20202021-01-1 [LASK] 1:0 [FK Austria Wien]" Finished="1" Aborted="0">
+    <Team Type="HOME" TeamID="6465" Name="LASK" Short="LASK" Abbr="ASK" />
+    <Team Type="AWAY" TeamID="6411" Name="FK Austria Wien" Short="Austria" Abbr="FAK" />
+    <Stadium StadiumID="1578" Name="Stadion der Stadt Linz" />
+  </Game>
+  <Game GameId="52630" Matchday="1" Number="2" OptaId="2127783" Date="2020-09-12T17:00:00Z" DateUTC="2020-09-12T15:00:00Z" Details="BL1-GD-20202021-01-2 [CASHPOINT SCR Altach] 1:1 [TSV Prolactal Hartberg]" Finished="1" Aborted="0">
+    <Team Type="HOME" TeamID="6495" Name="CASHPOINT SCR Altach" Short="SCR Altach" Abbr="ALT" />
+    <Team Type="AWAY" TeamID="6522" Name="TSV Prolactal Hartberg" Short="TSV Hartberg" Abbr="HTB" />
+    <Stadium StadiumID="1203" Name="CASHPOINT Arena" />
+  </Game>
+  <Game GameId="52641" Matchday="1" Number="3" OptaId="2127784" Date="2020-09-11T18:30:00Z" DateUTC="2020-09-11T16:30:00Z" Details="BL1-GD-20202021-01-3 [SK Rapid Wien] 4:1 [FC Flyeralarm Admira]" Finished="1" Aborted="0">
+    <Team Type="HOME" TeamID="6478" Name="SK Rapid Wien" Short="SK Rapid" Abbr="SCR" />
+    <Team Type="AWAY" TeamID="6417" Name="FC Flyeralarm Admira" Short="Flyeralarm Admira" Abbr="ADM" />
+    <Stadium StadiumID="1733" Name="Allianz Stadion" />
+  </Game>
+  <Game GameId="52632" Matchday="1" Number="4" OptaId="2127785" Date="2020-09-13T14:30:00Z" DateUTC="2020-09-13T12:30:00Z" Details="BL1-GD-20202021-01-4 [SV Guntamatic Ried] 3:2 [WSG Swarovski Tirol]" Finished="1" Aborted="0">
+    <Team Type="HOME" TeamID="6514" Name="SV Guntamatic Ried123" Short="SV Ried" Abbr="SVR" />
+    <Team Type="AWAY" TeamID="6540" Name="WSG Swarovski Tirol" Short="WSG Tirol" Abbr="WSG" />
+    <Stadium StadiumID="1335" Name="Keine Sorgen Arena" />
+  </Game>
+  <Game GameId="52623" Matchday="1" Number="5" OptaId="2127786" Date="2020-09-13T14:30:00Z" DateUTC="2020-09-13T12:30:00Z" Details="BL1-GD-20202021-01-5 [spusu SKN St. Pölten] 0:0 [SK Puntigamer Sturm Graz]" Finished="1" Aborted="0">
+    <Team Type="HOME" TeamID="10301" Name="spusu SKN St. Pölten" Short="St. Pölten" Abbr="SKN" />
+    <Team Type="AWAY" TeamID="6505" Name="SK Puntigamer Sturm Graz" Short="Sturm Graz" Abbr="STU" />
+    <Stadium StadiumID="1427" Name="NV Arena" />
+  </Game>
+</Tournament>

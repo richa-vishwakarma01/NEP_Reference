@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nep-ms-mediabank",
+  "private_key_id": "699a4cfe1d4b33f1b6ead48636241c20ba6922cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuTwSkeeUEPYHW\nEfiEpPIRYevyVz+u59xCguNOQgE6gXO9gb6iJmqViAWKPO3JUlhhoQMA3O1SOL2u\nfwiIqK3D8DjF8LgJKVNdL793QnYV0i7Iro8wrasYedatzAlyMt/KJ+Zb5J+LpPiR\nsvdAM+LMRFVWH2PhMpit3iKPn/lcTT6WdR6TOrr68sbWYqC0BNgzuYJ9w/5grSbO\n+rbxEvwcTNsNZZTtmm65JILMB+uJ28w79r/ViteoRFnQTmgPPtGWwdHdtd5edrdr\n4h9frC68LkB0aT53aCxs/NkhqUx9iIJbZUYUGva0b8vHjnwl30xaPzlmbpHue1hh\nxEOAnp3tAgMBAAECggEANt+iVwMWsUSJtLIYme1xVT6N8E8+OZo9cWTSGSdXSqtJ\nG+4V7OcKI8Pb9p5ivz+gmi99ig6C2aEKOb49GgR8G5Rq0wmKbjvnxgzLikhOc2Ul\nHEEzy7/Ifp6QkksK6DwSzonMD77D6UrIg9mi07/h1KtocAHWyCTNAuNM3wkeD8us\n74o/v2631Gu0+KDAQkAh30H9GdfjMBwkJG7ByPFxXfMki26JrBWZD3qaQR3SC9tv\nKPHEmh82yZh84NHYFLaPJ3Nqgh4oDX46p4H3xQaCxc9KHAix8n0Qhi7XJ4rENdof\naqwWAPP/NY0jLQKexo0OhEAJXOh3bTU8KnvWYTMLQwKBgQD15hcrX8n42UrTGp7N\nvK10YYRGxLYWugBQakopQpoMke7Sj8FWGq2wg8dClb+0iC4NjQL79eOwRf8obVGG\nKFrFkLv4weMI5O/DhxUyE+8j7ppVrLsUQGGyI2g0GgEZIGHwVGWDIvoh6lJaoIN5\nTfvaBgJhDJqaC29+M2J311enNwKBgQC1eBMpgmm2oi+hiY1nMD2V5VSqQEd1wZJy\nwruU5o+W2RKN2NwJonYOgdpHfjFk5v69Pt0QUNfJ+JR2jWvQJSKGIfJXxwlF1d2V\nwxq/b2iYLAjXNuXFxKifL7YRdE3nKEmdNBcpRAcJ6ieoR8Wu0algFc4bTNHypGuI\nlpk5h38t+wKBgQCO3gFmLQBO+gi0QIo1pMLulF3jNBVLfQQDtM2jzVNtrDgi1G0T\nFusFXHsgH5tDS7/eFai/NWz1lKWcGm+8T6P1l5LvA89h8omvg8N31gciTFYVIweK\ny6E3e8TmSJmMvLjKhm54U5EatWblys64YuvKD6XANy94At7jZv11/YKq3wKBgEgr\niPNpOkG4HtlPqzzuoo+KtTFAfysF4QhjCdceGt0TV52yMVBjnDAI1Ja6SUqn04fQ\nCHsEq81XXzQG6mnNWv2dYpQmRDnR5F47Sdf4ptBeMuXkn10X6Tfl8bLfXlwgWaZ7\noPp4Y5Q926fBY40zNPlRsraIxraJTXr06dtHV/0hAoGBAMIzVMKV7mTlr2a6VC1w\niRUxjX0kzjuWeahw2vIsDYeFTn67c16lPlAP6oYF3wIarU/XZueBUmoX+8aqhv7d\nH7K1gqisspRWU8XbiQTSNEYXtqyGgeAXmxV10omPOqHCTmEZiXoVpSVf1envqs/v\nw+p3dOi1UP46YkgMb/WczXS6\n-----END PRIVATE KEY-----\n",
+  "client_email": "jracero-gcr-sa@nep-ms-mediabank.iam.gserviceaccount.com",
+  "client_id": "114699205879229070916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jracero-gcr-sa%40nep-ms-mediabank.iam.gserviceaccount.com"
+}
